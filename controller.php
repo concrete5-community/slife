@@ -13,7 +13,7 @@ class Controller extends Package
 {
     protected $pkgHandle = 'slife';
     protected $appVersionRequired = '8.2';
-    protected $pkgVersion = '0.9.2';
+    protected $pkgVersion = '1.0';
     protected $pkgAutoloaderRegistries = [
         'src/Slife' => '\Slife',
     ];
